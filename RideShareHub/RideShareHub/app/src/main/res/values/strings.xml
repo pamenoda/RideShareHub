@@ -1,6 +1,0 @@
-<resources>
-    <string name="app_name">RideShareHub</string>
-    <string name="welcomeHome">Welcome to RideShareHub</string>
-    <string name="Description">Your ultimate travel companion for hassle-free carpooling.\n  Connect, share rides, and explore new horizons effortlessly.\n Let\'s ride together!</string>
-    <string name="buttonHome">Get Started</string>
-</resources>
