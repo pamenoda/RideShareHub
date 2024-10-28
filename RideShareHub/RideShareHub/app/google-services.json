@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "605349524068",
+    "project_id": "ridesharehub-ecbae",
+    "storage_bucket": "ridesharehub-ecbae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:605349524068:android:b74e008bb33142b4d16571",
+        "android_client_info": {
+          "package_name": "com.example.ridesharehub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMQXHAeU6uuxjFY9fMSzcX4ldlDjWE8vc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

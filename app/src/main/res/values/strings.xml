@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RideShareHub</string>
+    <string name="welcomeHome">Welcome to RideShareHub</string>
+    <string name="Description">Your ultimate travel companion for hassle-free carpooling.\n  Connect, share rides, and explore new horizons effortlessly.\n Let\'s ride together!</string>
+    <string name="buttonHome">Get Started</string>
+    <string name="open_nav">Open Navigation Drawer</string>
+    <string name="close_nav">Close Navigation Drawer</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
